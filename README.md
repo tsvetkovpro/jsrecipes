@@ -18,7 +18,16 @@
 
 ### ***Intermediate***
 
-- [](./posts/backend/intermediate)
+- [building-a-rest-api](./posts/backend/intermediate/building-a-rest-api.md)
+- [csrf-protection-with-express](./posts/backend/intermediate/csrf-protection-with-express.md)
+- [form-validation](./posts/backend/intermediate/form-validation.md)
+- [get-users-location-from-ip-address](./posts/backend/intermediate/get-users-location-from-ip-address.md)
+- [gravatar-profile-images](./posts/backend/intermediate/gravatar-profile-images.md)
+- [optimizing-assets-with-gulp](./posts/backend/intermediate/optimizing-assets-with-gulp.md)
+- [sending-emails-with-nodemailer](./posts/backend/intermediate/sending-emails-with-nodemailer.md)
+- [sign-in-with-facebook](./posts/backend/intermediate/sign-in-with-facebook.md)
+- [uploading-files](./posts/backend/intermediate/uploading-files.md)
+- [who-is-online-with-socketio](./posts/backend/intermediate/who-is-online-with-socketio.md)
 
 
 
