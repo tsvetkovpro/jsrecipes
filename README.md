@@ -30,6 +30,13 @@
 - [who-is-online-with-socketio](./posts/backend/intermediate/who-is-online-with-socketio.md)
 
 
+### ***Advanced***
+
+- [generating-short-hashes](./posts/backend/advanced/generating-short-hashes.md)
+- [nodejs-error-handling](./posts/backend/advanced/nodejs-error-handling.md)
+- [organizing-callbacks-with-async](./posts/backend/advanced/organizing-callbacks-with-async.md)
+
+
 
 
 
