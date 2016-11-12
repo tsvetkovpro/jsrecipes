@@ -1,36 +1,26 @@
-<img src="https://dl.dropboxusercontent.com/u/14131013/jsrecipes-logo.png" height="40">
+## **Backend**
 
 
-## Built Using
-- Angular.JS
-- Gulp
-- Bootstrap Sass
-- jQuery
-- Showdown
-- angular-route
-- angular-disqus
-- ngProgress
-- highlight.js
+### ***Beginner***
 
-## License
-The MIT License (MIT)
+- [formatting-dates](./posts/backend/beginner/formatting-dates.md)
+- [getting-started-with-mongoose](./posts/backend/beginner/getting-started-with-mongoose.md)
+- [handling-submitted-form-fields](./posts/backend/beginner/handling-submitted-form-fields.md)
+- [introduction-to-jade](./posts/backend/beginner/introduction-to-jade.md)
+- [nodejs-logging](./posts/backend/beginner/nodejs-logging.md)
+- [parsing-query-string-post-and-url-parameters](./posts/backend/beginner/parsing-query-string-post-and-url-parameters.md)
+- [parsing-xml](./posts/backend/beginner/parsing-xml.md)
+- [socketio-basics](./posts/backend/beginner/socketio-basics.md)
+- [string-manipulation](./posts/backend/beginner/string-manipulation.md)
+- [useful-nodejs-utilities](./posts/backend/beginner/useful-nodejs-utilities.md)
+- [using-sass-and-less-in-express](./posts/backend/beginner/using-sass-and-less-in-express.md)
 
-Copyright (c) 2014 Sahat Yalkabov
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### ***Intermediate***
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- [](./posts/backend/intermediate)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+
+
+
+
